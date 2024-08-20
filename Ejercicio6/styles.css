@@ -1,0 +1,58 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: rgb(87, 108, 188);
+  background: radial-gradient(
+    circle,
+    rgba(87, 108, 188, 1) 0%,
+    rgba(11, 36, 71, 1) 100%
+  );
+  color: #ffff;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#header {
+  text-align: center;
+  font-size: 30px;
+  border: 2px dashed #ffff;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+}
+
+a {
+  color: #ffff;
+}
+
+#contenedor-Bibliografia {
+  border: 2px dashed #ffff;
+  margin-bottom: 50px;
+  padding: 30px 50px 30px 50px;
+}
+
+#contenedor-albumes {
+  border: 2px dashed #ffff;
+  margin-bottom: 50px;
+}
+
+#contenedor-albumes{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  border: 2px dashed #ffff;
+}
+#contenedor-albumes ul{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  /* border: 2px solid #ffff; */
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+#contenedor-enlaces {
+  border: 2px dashed #ffff;
+  margin-bottom: 50px;
+  padding: 30px 30px 50px 50px;
+}
+

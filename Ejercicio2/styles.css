@@ -1,0 +1,28 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  /* background-color: royalblue; */
+  background: rgb(46, 138, 153);
+  background: radial-gradient(
+    circle,
+    rgba(46, 138, 153, 1) 0%,
+    rgba(14, 41, 84, 1) 100%
+  );
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: yellow;
+}
+
+p {
+  color: #ffff;
+  border: thin solid yellow;
+  padding: 20px;
+}
+
+#cita{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
